@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">currency_project</string>
+    <string name="convert_currency">Convert Currency</string>
+    <string name="dimen_5dp">5</string>
+    <string name="amount">Amount</string>
+    <string name="from">From</string>
+    <string name="euro">EURO</string>
+    <string name="to">To</string>
+    <string name="gbp">GBP</string>
+    <string name="date">Date</string>
+    <string name="date_hint">2023-12-17</string>
+    <string name="required_the_amount_to_be_converted">REQUIRED:The amount to be converted.</string>
+    <string name="required_the_text">REQUIRED:The the text</string>
+    <string name="required_the_three_letter_currency_code_of_the_currency_you_would_like_to_convert_from">REQUIRED:The three-letter currency code of the currency you would like to convert from</string>
+    <string name="required_the_three_letter_currency_code_of_the_currency_you_would_like_to_convert_to">REQUIRED:The three-letter currency code of the currency you would like to convert to.</string>
+    <string name="convert">Convert</string>
+    <string name="result">Result</string>
+    <string name="currency_convert">Currency Convert</string>
+    <string name="spell_checker">Spell Checker</string>
+    <string name="write_text">Write Text</string>
+    <string name="suggestions">Suggestions</string>
+</resources>
